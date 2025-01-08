@@ -1,11 +1,4 @@
-- 👋 Hi, I’m Mohammed-Munshak
-- 👀 I’m interested in Information Technology and Aviation
-- 🌱 I’m currently learning Software Engineering at Cardiff Metropoliton University
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Mohammed-Munshak/Mohammed-Munshak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I'm Mohammed Munshak, a 20-year-old software engineering undergraduate at Cardiff Metropolitan University from Sri Lanka.
+- 👀 As a full-stack developer, I specialize in creating websites and mobile applications.
+- 🌱 I studied at Ku/Giri/Madeena National School, Siyambalagaskotuwa.
+- 📫 Beyond coding, I have a passion for aviation and pursue photography as a part-time profession.
